@@ -1,0 +1,28 @@
+# Tableau Dashboard: Sales Analysis
+
+## Overview
+This project features interactive Tableau visualizations analyzing Total Sales, Profit, Volume, Sales Per Customer, and regional and categorical performance metrics.
+
+## Visualizations
+1. **Total Sales, Profit, Volume, and Sales Per Customer**:
+   - Displays metrics in thousands (K) with customized colors and formatting.
+2. **Pie Chart**:
+   - Percent of Total Sales by Region using the Summer Color Palette.
+3. **Bar Chart**:
+   - Top N states by Sales with dynamic control using a parameter.
+4. **Bubble Chart**:
+   - Sales by Sub-Category, colored by Category.
+5. **Line Chart**:
+   - Monthly sales trend with a custom Date Range filter.
+
+## How to View
+1. **Tableau Desktop**: Download and open the `Sales_Dashboard.twbx` file.
+2. **Tableau Public**: Explore the workbook online [here](https://public.tableau.com/).
+
+## Key Features
+- Clean formatting and custom tooltips.
+- Interactive filters and parameters.
+- Trend and performance insights for decision-making.
+
+## Author
+[Your Name] | Published on Tableau Public.
